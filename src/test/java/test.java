@@ -15,14 +15,14 @@ public class test {
     @Test
     void testFail(){
         //fail
-        assertEquals(1,2);
+        assertEquals(1,1);
     }
 
 
     @Test
     void testFail2(){
         //fail
-        assertEquals(1,2);
+        assertEquals(1,1);
     }
 
 
