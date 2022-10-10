@@ -19,6 +19,11 @@ public class test {
     }
 
 
+    @Test
+    void testFail2(){
+        //fail
+        assertEquals(1,2);
+    }
 
 
 
